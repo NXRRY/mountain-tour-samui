@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "首页",
+    "tours": "旅游项目",
+    "about": "关于我们",
+    "gallery": "相册",
+    "reviews": "评价",
+    "faq": "常见问题",
+    "contact": "联系我们",
+    "bookNow": "立即预订",
+    "language": "语言"
+  },
+  "hero": {
+    "badge": "苏梅岛值得信赖的旅游伙伴",
+    "title": "探索",
+    "titleHighlight": "苏梅岛",
+    "subtitle": "与Mountain Tour Samui一起体验难忘的海岛冒险。专业导游、舒适交通，留下终生难忘的美好记忆。",
+    "cta": "探索旅游项目",
+    "ctaSecondary": "联系我们",
+    "stats": {
+      "tours": "旅游项目",
+      "customers": "满意客户",
+      "years": "年经验",
+      "rating": "平均评分"
+    }
+  },
+  "featured": {
+    "badge": "热门旅游",
+    "title": "发现我们的",
+    "titleHighlight": "最佳旅游",
+    "subtitle": "精心挑选的体验，展示苏梅岛最精彩的一面",
+    "viewAll": "查看所有旅游",
+    "bookNow": "立即预订",
+    "perAdult": "/ 成人",
+    "duration": "时长",
+    "hours": "小时"
+  },
+  "about": {
+    "badge": "关于Mountain Tour Samui",
+    "title": "您信赖的",
+    "titleHighlight": "海岛向导",
+    "description": "Mountain Tour Samui多年来一直为国际游客和本地访客提供服务。我们专注于创造个性化的海岛体验，超越典型的旅游路线。",
+    "description2": "我们经验丰富的本地导游会说多种语言，热衷于分享苏梅岛的美丽、文化和隐藏宝藏。从令人惊叹的寺庙到原始海滩，我们让每一刻都有意义。",
+    "stats": {
+      "tours": "旅游项目",
+      "customers": "满意客户",
+      "years": "年经验",
+      "languages": "支持语言"
+    },
+    "features": {
+      "certified": "认证本地导游",
+      "transport": "舒适的交通",
+      "multilingual": "多语言支持",
+      "booking": "便捷在线预订"
+    },
+    "cta": "了解更多关于我们"
+  },
+  "gallery": {
+    "badge": "照片相册",
+    "title": "来自",
+    "titleHighlight": "天堂的瞬间",
+    "subtitle": "看看我们的客户享受的美好体验",
+    "viewAll": "查看完整相册"
+  },
+  "reviews": {
+    "badge": "客户评价",
+    "title": "我们的",
+    "titleHighlight": "客人怎么说",
+    "subtitle": "来自真实旅行者的真实体验",
+    "rating": "平均评分",
+    "based": "基于",
+    "totalReviews": "条评价"
+  },
+  "contact": {
+    "badge": "联系我们",
+    "title": "准备好您的",
+    "titleHighlight": "冒险了吗？",
+    "subtitle": "立即联系我们，规划您完美的苏梅岛旅游体验",
+    "phone": "电话 / WhatsApp",
+    "email": "电子邮件",
+    "whatsapp": "WhatsApp聊天",
+    "hours": "营业时间",
+    "hoursValue": "每天 7:00 - 21:00",
+    "address": "地址",
+    "addressValue": "苏梅岛，素叻他尼府，泰国"
+  },
+  "booking": {
+    "title": "预订旅游",
+    "subtitle": "填写下面的表格，我们将在24小时内确认您的预订",
+    "fullName": "全名",
+    "phone": "电话号码",
+    "whatsapp": "WhatsApp号码",
+    "email": "电子邮件地址",
+    "hotel": "酒店 / 住宿",
+    "tour": "选择旅游项目",
+    "selectTour": "选择旅游...",
+    "date": "出行日期",
+    "adults": "成人人数",
+    "children": "儿童人数",
+    "notes": "其他备注",
+    "notesPlaceholder": "特殊要求、饮食限制或问题...",
+    "submit": "发送预订请求",
+    "submitting": "发送中...",
+    "success": "预订请求已发送！我们将在24小时内联系您。",
+    "error": "出现错误。请重试或直接联系我们。",
+    "required": "此字段为必填项",
+    "validEmail": "请输入有效的电子邮件地址"
+  },
+  "tours": {
+    "title": "所有旅游项目",
+    "subtitle": "发现苏梅岛最好的体验",
+    "badge": "我们的旅游",
+    "search": "搜索旅游...",
+    "filter": "筛选",
+    "all": "所有旅游",
+    "noResults": "未找到旅游",
+    "loading": "加载中...",
+    "from": "起价",
+    "adult": "成人",
+    "duration": "时长",
+    "hours": "小时",
+    "bookNow": "立即预订",
+    "viewDetails": "查看详情",
+    "included": "包含项目",
+    "excluded": "不包含项目",
+    "highlights": "旅游亮点",
+    "itinerary": "行程安排",
+    "pickup": "接送信息",
+    "bring": "需要携带",
+    "price": "价格",
+    "priceAdult": "价格（成人）",
+    "priceChild": "价格（儿童）",
+    "backToTours": "返回旅游列表"
+  },
+  "about_page": {
+    "badge": "我们的故事",
+    "title": "Mountain Tour Samui",
+    "subtitle": "热衷于分享苏梅岛的美丽",
+    "story": "Mountain Tour Samui由苏梅岛本地居民创立，源于对我们岛屿家园的深深热爱以及与世界分享其奇迹的渴望。",
+    "mission": "我们的使命",
+    "missionText": "提供真实、安全和难忘的旅游体验，让游客与苏梅岛的真实精神相连，同时支持当地社区。",
+    "team": "我们的团队",
+    "values": "我们的价值观"
+  },
+  "faq": {
+    "badge": "常见问题",
+    "title": "常见",
+    "titleHighlight": "问题解答",
+    "subtitle": "预订旅游前您需要了解的一切"
+  },
+  "footer": {
+    "description": "苏梅岛值得信赖的本地旅游伙伴，自2015年以来创造难忘的海岛体验。",
+    "quickLinks": "快速链接",
+    "contactInfo": "联系信息",
+    "followUs": "关注我们",
+    "rights": "版权所有",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "common": {
+    "readMore": "阅读更多",
+    "learnMore": "了解更多",
+    "close": "关闭",
+    "loading": "加载中...",
+    "error": "出现错误",
+    "back": "返回",
+    "next": "下一页",
+    "previous": "上一页",
+    "currency": "泰铢",
+    "perPerson": "每人"
+  }
+}

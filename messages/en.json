@@ -1,0 +1,172 @@
+{
+  "nav": {
+    "home": "Home",
+    "tours": "Tour Programs",
+    "about": "About Us",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "Koh Samui's Trusted Tour Partner",
+    "title": "Discover the Magic of",
+    "titleHighlight": "Koh Samui",
+    "subtitle": "Experience unforgettable island adventures with Mountain Tour Samui. Professional guides, comfortable transport, and memories that last a lifetime.",
+    "cta": "Explore Tours",
+    "ctaSecondary": "Contact Us",
+    "stats": {
+      "tours": "Tour Programs",
+      "customers": "Happy Customers",
+      "years": "Years Experience",
+      "rating": "Average Rating"
+    }
+  },
+  "featured": {
+    "badge": "Popular Tours",
+    "title": "Discover Our",
+    "titleHighlight": "Best Tours",
+    "subtitle": "Hand-picked experiences that showcase the best of Koh Samui",
+    "viewAll": "View All Tours",
+    "bookNow": "Book Now",
+    "perAdult": "/ adult",
+    "duration": "Duration",
+    "hours": "hrs"
+  },
+  "about": {
+    "badge": "About Mountain Tour Samui",
+    "title": "Your Trusted",
+    "titleHighlight": "Island Guide",
+    "description": "Mountain Tour Samui has been serving international tourists and local visitors for years. We specialize in creating personalized island experiences that go beyond the typical tourist trail.",
+    "description2": "Our experienced local guides speak multiple languages and are passionate about sharing the beauty, culture, and hidden gems of Koh Samui. From stunning temples to pristine beaches, we make every moment count.",
+    "stats": {
+      "tours": "Tour Programs",
+      "customers": "Happy Customers",
+      "years": "Years Experience",
+      "languages": "Languages Spoken"
+    },
+    "features": {
+      "certified": "Certified Local Guides",
+      "transport": "Comfortable Transport",
+      "multilingual": "Multilingual Support",
+      "booking": "Easy Online Booking"
+    },
+    "cta": "Learn More About Us"
+  },
+  "gallery": {
+    "badge": "Photo Gallery",
+    "title": "Moments from",
+    "titleHighlight": "Paradise",
+    "subtitle": "See the beautiful experiences our customers enjoy",
+    "viewAll": "View Full Gallery"
+  },
+  "reviews": {
+    "badge": "Customer Reviews",
+    "title": "What Our",
+    "titleHighlight": "Guests Say",
+    "subtitle": "Real experiences from real travelers",
+    "rating": "Average Rating",
+    "based": "Based on",
+    "totalReviews": "reviews"
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "title": "Ready for Your",
+    "titleHighlight": "Adventure?",
+    "subtitle": "Contact us now to plan your perfect Koh Samui tour experience",
+    "phone": "Phone / WhatsApp",
+    "email": "Email",
+    "whatsapp": "Chat on WhatsApp",
+    "hours": "Office Hours",
+    "hoursValue": "Daily 7:00 AM - 9:00 PM",
+    "address": "Location",
+    "addressValue": "Koh Samui, Surat Thani, Thailand"
+  },
+  "booking": {
+    "title": "Book Your Tour",
+    "subtitle": "Fill in the form below and we'll confirm your booking within 24 hours",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "whatsapp": "WhatsApp Number",
+    "email": "Email Address",
+    "hotel": "Hotel / Accommodation",
+    "tour": "Select Tour Program",
+    "selectTour": "Choose a tour...",
+    "date": "Travel Date",
+    "adults": "Number of Adults",
+    "children": "Number of Children",
+    "notes": "Additional Notes",
+    "notesPlaceholder": "Any special requirements, dietary restrictions, or questions...",
+    "submit": "Send Booking Request",
+    "submitting": "Sending...",
+    "success": "Booking request sent! We'll contact you within 24 hours.",
+    "error": "Something went wrong. Please try again or contact us directly.",
+    "required": "This field is required",
+    "validEmail": "Please enter a valid email address"
+  },
+  "tours": {
+    "title": "All Tour Programs",
+    "subtitle": "Discover the best experiences Koh Samui has to offer",
+    "badge": "Our Tours",
+    "search": "Search tours...",
+    "filter": "Filter",
+    "all": "All Tours",
+    "noResults": "No tours found",
+    "loading": "Loading tours...",
+    "from": "From",
+    "adult": "adult",
+    "duration": "Duration",
+    "hours": "hrs",
+    "bookNow": "Book Now",
+    "viewDetails": "View Details",
+    "included": "What's Included",
+    "excluded": "Not Included",
+    "highlights": "Tour Highlights",
+    "itinerary": "Itinerary",
+    "pickup": "Pickup Information",
+    "bring": "What to Bring",
+    "price": "Price",
+    "priceAdult": "Price (Adult)",
+    "priceChild": "Price (Child)",
+    "backToTours": "Back to Tours"
+  },
+  "about_page": {
+    "badge": "Our Story",
+    "title": "Mountain Tour Samui",
+    "subtitle": "Passionate about sharing the beauty of Koh Samui",
+    "story": "Founded by local Koh Samui residents, Mountain Tour Samui was born out of a deep love for our island home and a desire to share its wonders with the world.",
+    "mission": "Our Mission",
+    "missionText": "To provide authentic, safe, and unforgettable tour experiences that connect visitors with the true spirit of Koh Samui while supporting local communities.",
+    "team": "Our Team",
+    "values": "Our Values"
+  },
+  "faq": {
+    "badge": "FAQ",
+    "title": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know before booking your tour"
+  },
+  "footer": {
+    "description": "Your trusted local tour partner in Koh Samui, Thailand. Creating unforgettable island experiences since 2015.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "currency": "THB",
+    "perPerson": "per person"
+  }
+}
