@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
-import { createClient } from "@/lib/supabase/server";
+import { createAdminClient } from "@/lib/supabase/server";
 import HeroSection from "@/components/home/HeroSection";
 import FeaturedTours from "@/components/home/FeaturedTours";
 import AboutSection from "@/components/home/AboutSection";
@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 async function getFeaturedTours(locale: string): Promise<TourWithTranslation[]> {
   try {
-    const supabase = await createClient();
+    const supabase = await createAdminClient();
     const { data } = await supabase
       .from("tours")
       .select(`*, translations:tour_translations!inner(*)`)
@@ -45,7 +45,7 @@ async function getFeaturedTours(locale: string): Promise<TourWithTranslation[]> 
 
 async function getFeaturedReviews(): Promise<Review[]> {
   try {
-    const supabase = await createClient();
+    const supabase = await createAdminClient();
     const { data } = await supabase
       .from("reviews")
       .select("*")
